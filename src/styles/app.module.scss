@@ -1,0 +1,9 @@
+.wrapper {
+  display: flex; 
+
+  main {
+    flex: 1; 
+    // flex é abrevidação de: flex-grow flex-shrink flex-basis
+    //flex 0 divide exatamente ao meio o espaço do container, 1 ocupa tela toda ate elemento que tiver width
+  }
+}
